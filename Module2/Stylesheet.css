@@ -6,14 +6,28 @@ h1 {
   font-family: Brushstroke, fantasy;
   color: #000000;
   text-align: center;
+  margin-top: 20px;
+  margin-bottom: 25px;
 }
 
 body {
  
-  background-color: #FEF5CA;
+  background-color: lightblue;
 
 }
 
+.i1
+{
+  background-color:   #228B22;
+}
+.i2
+{
+  background-color:   #7FFF00;
+}
+.i3
+{
+  background-color:   #6B8E23;
+}
 p {
   padding: 10px;
   margin: 0;
